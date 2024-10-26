@@ -58,6 +58,10 @@ export default defineConfig({
 					],
 				},
 				{
+				    label: '导师招生广告',
+					autogenerate: { directory: '导师招生广告' },
+				},
+				{
 					label: '保研工具箱',
 					autogenerate: { directory: '保研工具箱' },
 				},
