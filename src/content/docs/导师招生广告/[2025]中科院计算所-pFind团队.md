@@ -1,3 +1,7 @@
+---
+title: 中科院计算所-pFind团队
+---
+
 <div style="
   display: flex;
   justify-content: space-between; 
@@ -117,3 +121,4 @@ $pFind$ 团队承担的主要课题包括国家 $973$ 课题、 $863$ 课题、�
 </div>
 
 </p>
+
