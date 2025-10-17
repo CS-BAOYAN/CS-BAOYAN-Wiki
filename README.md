@@ -19,6 +19,6 @@
 
 熟悉 Github Pull requests 的同学可以直接把自己经验贴添加了后 PR 给我们，记得保证版本与我的仓库一致。
 
-对 PR 不熟悉的同学，可以查阅 [贡献指南](https://cs-baoyan.github.io/CS-BAOYAN-2025/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97.html) 中的贡献步骤，同时 [第一次参与开源](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md) 中的流程也或许会有帮助。
+对 PR 不熟悉的同学，可以查阅 [贡献指南](https://csbaoyan.top/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97/%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE) 中的贡献步骤，同时 [第一次参与开源](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.zh-cn.md) 中的流程也或许会有帮助。
 
 当然，如果你对本仓库的任何板块，例如复习资料、推荐资料等，想要贡献或者提建议，我们也十分欢迎 PR 和 Issue 。
