@@ -13,9 +13,9 @@ export default defineConfig({
 				Footer: './src/components/Footer.astro',
 			  },
 			title: 'CSWiki',
-			social: {
-				github: 'https://github.com/CS-BAOYAN/CS-BAOYAN-2025',
-			},
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/CS-BAOYAN/CS-BAOYAN-2025' },
+			],
 			editLink: {
 			  baseUrl: 'https://github.com/CS-BAOYAN/CS-BAOYAN-2025/edit/main/',
 			},
